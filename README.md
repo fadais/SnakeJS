@@ -1,4 +1,5 @@
 <b>Snake JS</b>
+<br />
 
 Snake running on a NodeJS Server <br />
 Playable on PC and on Mobile (Android/IOS) <br />
