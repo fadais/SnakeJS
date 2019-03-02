@@ -10,6 +10,6 @@ Field is adjusted to screen size <br />
   <br />
 <b>Start:</b><br />
 	- Run command 'node index.js' in root directory  <br />
-	- game is reachable under 'localhost:3000' / <br />'[yourIP]:3000'  
+	- game is reachable under 'localhost:3000' /'[yourIP]:3000'  
 <br />
   
