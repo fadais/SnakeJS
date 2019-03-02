@@ -1,12 +1,14 @@
-#Snake JS
+<b>Snake JS</b>
 
-Snake running on a NodeJS Server
-Playable on PC and on Mobile (Android/IOS)
-Field is adjusted to screen size
+Snake running on a NodeJS Server <br />
+Playable on PC and on Mobile (Android/IOS) <br />
+Field is adjusted to screen size <br />
 
-Prerequisite:
-	- newest version of nodeJS
-
-Start:
-	- Run command 'node index.js' in root directory
-	- game is reachable under 'localhost:3000' / '[yourIP]:3000'
+<b>Prerequisite: </b><br />
+	- newest version of nodeJS  <br />
+  <br />
+<b>Start:</b><br />
+	- Run command 'node index.js' in root directory  <br />
+	- game is reachable under 'localhost:3000' / <br />'[yourIP]:3000'  
+<br />
+  
